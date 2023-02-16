@@ -1,0 +1,7 @@
+http:
+  port: "8081"
+  
+sfdc:
+  username: "jchundi@open-logix.com"
+  password: "Jithu@2500"
+  token: "Eau7ypLI2UsdoGmjk9OK9p66U"
